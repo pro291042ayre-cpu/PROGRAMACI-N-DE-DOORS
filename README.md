@@ -34,3 +34,7 @@ copias del Software, con la condición de que se mantenga el aviso de copyright 
 y esta licencia en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO.
+
+## 📄 Licencia
+Este proyecto está bajo la licencia MIT.  
+Puedes usarlo libremente, pero debes dar crédito a **MarBano** como autor original.
